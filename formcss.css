@@ -1,0 +1,23 @@
+p{
+    font-size:30px;
+    color: tomato;
+    background-color: wheat;
+    border:2px;
+    padding: 10px;
+}
+form{
+    font-family: cursive;
+color: rosybrown;
+}
+img{
+    width: 30;
+    height: 20;
+}
+#h01{
+    color: tomato;
+
+}
+img {
+    float: right;
+
+}
