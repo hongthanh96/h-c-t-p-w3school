@@ -1,0 +1,33 @@
+#d{
+    background-color: burlywood;
+}
+.rang{
+    width: 500px;
+}
+.colorback:active{
+    background-color: chocolate;
+}
+table, tr,td,th{
+    border:rgb(2, 2, 2) 2px solid;
+    border-collapse: collapse;
+}
+.md{
+    text-align: left;
+}
+#min{
+    width: 20px;
+}
+textarea{
+    width: 500px;
+    height: 100px;}
+.tr{
+    background-color: darkseagreen;
+}
+td{width: 150px; text-align: center;}
+#submit{
+    margin-top: 10px;
+    width: 100px;
+    font-weight:bold;
+    font-size: 20px;
+    box-shadow: darkcyan 0 0 3px 3px;
+}

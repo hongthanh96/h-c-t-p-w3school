@@ -1,0 +1,23 @@
+fieldset{
+    width: 500px;
+    border: greenyellow 30px solid;
+    background-color:wheat;
+    margin-left: 300px;
+}
+h2{
+    background-color: tomato;
+    font-size: 30px;
+    color: thistle;
+    margin-top: 5px;
+}
+.td{
+    color: red;
+}
+p.value{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    color: red;
+}
+input{
+    box-shadow: 2px 1px 2px 0px yellowgreen;
+}
