@@ -1,0 +1,41 @@
+h1{
+    color: blue;
+    margin-left: 300px;
+}
+table{
+    width: 800px;
+    height: 300px;
+    border-collapse: collapse;
+
+}
+th,td{
+    font-size: 20px;
+    border:wheat solid 2px;
+    text-align: center;
+    font-size:x-large;
+   
+
+}
+#th01{
+    background-color: red;
+}
+#th02{
+    background-color: blue;
+}
+.t01{
+    background-color: orange;
+    
+}
+#tr1{
+    border-collapse: collapse;
+}
+.col1{
+    color: red;
+}
+.col2{
+    color: blue;
+}
+sub{
+    color: black;
+    font-size: small;
+}

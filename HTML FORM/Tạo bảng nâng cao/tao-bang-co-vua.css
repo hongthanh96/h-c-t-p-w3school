@@ -1,0 +1,22 @@
+table{
+    width: 1000px;
+    height: 1000px;
+    border-collapse: collapse;
+}
+th{
+    width: ;
+}
+th td{
+    width: 100px;
+    height: 100px;
+}
+.tr1{
+    background-color: orange;
+    font-size: 30px;
+}
+.A1{
+    background-color: white;
+}
+.A2{
+    background-color: black;
+}
